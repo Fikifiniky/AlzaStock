@@ -1,0 +1,31 @@
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.exe.config
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.exe
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.pdb
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\Guna.UI2.dll
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csprojAssemblyReference.cache
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.Form1.resources
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.Properties.Resources.resources
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.GenerateResource.cache
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.CopyComplete
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.exe
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.pdb
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jan\source\repos\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.xml
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.exe.config
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.exe
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\AlzaStockCheck.pdb
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\Guna.UI2.dll
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.dll
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.pdb
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\bin\Debug\HtmlAgilityPack.xml
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.AssemblyReference.cache
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.Form1.resources
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.Properties.Resources.resources
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.GenerateResource.cache
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.CoreCompileInputs.cache
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.CopyComplete
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.exe
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.pdb
+D:\old win 27_07_2021\AlzaStockCheck\AlzaStockCheck\obj\Debug\AlzaStockCheck.csproj.SuggestedBindingRedirects.cache
